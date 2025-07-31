@@ -1,4 +1,4 @@
-# Next.js on Netlify Platform Starter
+# Netlify Temp
 
 [Live Demo](https://nextjs-platform-starter.netlify.app/)
 
